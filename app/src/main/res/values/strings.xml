@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppCompose</string>
+    <string name="title_activity_column">ColumnActivity</string>
+    <string name="title_activity_modifiers">ModifiersActivity</string>
+    <string name="title_activity_image_card">ImageCardActivity</string>
+    <string name="title_activity_styling_text">StylingTextActivity</string>
+    <string name="title_activity_state">StateActivity</string>
+    <string name="title_activity_textfield_button">Textfield_ButtonActivity</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_list_lazt_column">ListLaztColumnActivity</string>
+    <string name="title_activity_lazy_column_items_indexed">LazyColumnItemsIndexedActivity</string>
+</resources>
